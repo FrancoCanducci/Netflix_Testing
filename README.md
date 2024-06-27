@@ -1,12 +1,8 @@
 # Netflix_Testing
 Teste de Segurança - Netflix
 
-Teste de Segurança no Login da Netflix
+Teste de Segurança no Login da Netflix.
 Este script Python utiliza Selenium para automatizar um teste de segurança no processo de login da Netflix.
-Pré-requisitos
-Certifique-se de ter instalado os seguintes pacotes Python:
-selenium
-webdriver_manager
 
 
 Funcionalidades:
